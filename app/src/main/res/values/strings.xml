@@ -1,0 +1,283 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+
+    <string name="movie">Film</string>
+    <string name="tv_show">Televisi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Judul</string>
+    <string name="genre">Genre</string>
+    <string name="runtime">Durasi</string>
+    <string name="director">Sutradara</string>
+    <string name="title_home">Halaman Awal</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string-array name="movie_title">
+        <item>Spider-Man: Far from Home</item>
+        <item>Toy Story 4</item>
+        <item>Shazam!</item>
+        <item>Alita: Battle Angel</item>
+        <item>Captain Marvel</item>
+        <item>Aladdin</item>
+        <item>Annabelle Comes Home</item>
+        <item>Men in Black: International</item>
+        <item>Godzilla: King of the Monsters</item>
+        <item>The Secret Life of Pets 2</item>
+        <item>Ghost Writer</item>
+        <item>Parasite</item>
+        <item>Single: Part 2</item>
+        <item>Avengers: Endgame</item>
+        <item>Dumbo</item>
+    </string-array>
+
+    <string-array name="movie_year">
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="movie_runtime">
+        <item>2j 9m</item>
+        <item>1j 40m</item>
+        <item>2j 12m</item>
+        <item>2j 2m</item>
+        <item>2j 4m</item>
+        <item>2j 10m</item>
+        <item>1j 46m</item>
+        <item>1j 55m</item>
+        <item>2j 12m</item>
+        <item>1j 26m</item>
+        <item>1j 37m</item>
+        <item>2j 12m</item>
+        <item>2j 8m</item>
+        <item>3j 1m</item>
+        <item>1j 52m</item>
+    </string-array>
+
+    <string-array name="movie_director">
+        <item>Jon Watts</item>
+        <item>Josh Cooley</item>
+        <item>David F. Sandberg</item>
+        <item>Robert Rodriguez</item>
+        <item>Anna Boden, Ryan Fleck</item>
+        <item>Guy Ritchie</item>
+        <item>Gary Dauberman</item>
+        <item>F. Gary Gray</item>
+        <item>Michael Dougherty</item>
+        <item>Brian Lynch</item>
+        <item>Bene Dion Rajagukguk</item>
+        <item>Bong Joon-ho</item>
+        <item>Raditya Dika</item>
+        <item>Joe Russo, Anthony Russo</item>
+        <item>Tim Burton</item>
+    </string-array>
+
+    <string-array name="movie_genre">
+        <item>Action, Adventure, Science Fiction</item>
+        <item>Adventure, Animation, Comedy, Family</item>
+        <item>Action,Comedy, Fantasy</item>
+        <item>Action, Science Fiction, Thriller, Adventure</item>
+        <item>Action, Adventure, Science Fiction</item>
+        <item>Adventure, Fantasy, Romance, Comedy, Family</item>
+        <item>Horror</item>
+        <item>Action, Comedy, Science Fiction, Adventure</item>
+        <item>Science Fiction, Action</item>
+        <item>Adventure, Animation, Comedy, Family</item>
+        <item>Comedy, Horror, Drama</item>
+        <item>Drama, Thriller</item>
+        <item>Comedy, Romance</item>
+        <item>Adventure, Science Fiction, Action</item>
+        <item>Adventure, Family, Fantasy</item>
+    </string-array>
+
+    <string-array name="movie_sinopsis">
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether thats Andy or Bonnie. But when Bonnie adds a reluctant new toy called "Forky" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.</item>
+        <item>A boy is given the ability to become an adult superhero in times of need with a single magic word.</item>
+        <item>When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.</item>
+        <item>The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.</item>
+        <item>A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</item>
+        <item>Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens ten-year-old daughter, Judy, and her friends.</item>
+        <item>The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.</item>
+        <item>The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.</item>
+        <item>Max the terrier must cope with some major life changes when his owner gets married and has a baby. When the family takes a trip to the countryside, nervous Max has numerous run-ins with canine-intolerant cows, hostile foxes and a scary turkey. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.</item>
+        <item>Naya (Tatjana Saphira), a novelist that is already famous as a writer now has become unpopular. No other best seller that she can write, until when she found a diary that holds many dark secret that belongs to Galih (Ge Pamungkas) when he was alive. Will that book make her famous again or…</item>
+        <item>All unemployed, Ki-taeks family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.</item>
+        <item>Ebi has never dated even once in his whole life. Now on his 30th birthday, he is determined to find a girlfriend, but he doesnot know how to do it at all.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</item>
+    </string-array>
+
+    <string-array name="movie_rating">
+        <item>78</item>
+        <item>78</item>
+        <item>71</item>
+        <item>67</item>
+        <item>70</item>
+        <item>71</item>
+        <item>63</item>
+        <item>60</item>
+        <item>63</item>
+        <item>64</item>
+        <item>90</item>
+        <item>88</item>
+        <item>70</item>
+        <item>84</item>
+        <item>65</item>
+    </string-array>
+
+    <string-array name="movie_poster">
+        <item>@drawable/film_spiderman</item>
+        <item>@drawable/film_toystory</item>
+        <item>@drawable/film_shazam</item>
+        <item>@drawable/film_alita</item>
+        <item>@drawable/film_marvel</item>
+        <item>@drawable/film_aladin</item>
+        <item>@drawable/film_annabelle</item>
+        <item>@drawable/film_mib</item>
+        <item>@drawable/film_godzilla</item>
+        <item>@drawable/film_pets</item>
+        <item>@drawable/film_ghost</item>
+        <item>@drawable/film_parasite</item>
+        <item>@drawable/film_single</item>
+        <item>@drawable/film_endgame</item>
+        <item>@drawable/film_dumbo</item>
+    </string-array>
+
+    <string-array name="tv_title">
+        <item>Stranger Things</item>
+        <item>One-Punch Man</item>
+        <item>The Flash</item>
+        <item>Arrow</item>
+        <item>One Piece</item>
+        <item>Game of Thrones</item>
+        <item>Marvel Agents of S.H.I.E.L.D.</item>
+        <item>Dragon Ball</item>
+        <item>The Simpsons</item>
+        <item>Gotham</item>
+        <item>Naruto Shippūden</item>
+        <item>Bleach</item>
+    </string-array>
+
+    <string-array name="tv_year">
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2012</item>
+        <item>1999</item>
+        <item>2011</item>
+        <item>2013</item>
+        <item>1986</item>
+        <item>1989</item>
+        <item>2014</item>
+        <item>2007</item>
+        <item>2004</item>
+    </string-array>
+
+    <string-array name="tv_runtime">
+        <item>50m</item>
+        <item>24m</item>
+        <item>44m</item>
+        <item>42m</item>
+        <item>25m</item>
+        <item>60m</item>
+        <item>43m</item>
+        <item>25m</item>
+        <item>22m</item>
+        <item>43m, 60m</item>
+        <item>22m</item>
+        <item>24m</item>
+    </string-array>
+
+    <string-array name="tv_director">
+        <item>Ross Duffer, Matt Duffer</item>
+        <item>Yuusuke Murata, ONE</item>
+        <item>Geoff Johns, Andrew Kreisberg, Greg Berlanti</item>
+        <item>Greg Berlanti, Marc Guggenheim, Andrew Kreisberg</item>
+        <item>-</item>
+        <item>David Benioff, D. B. Weiss</item>
+        <item>Joss Whedon, Jed Whedon, Maurissa Tancharoen</item>
+        <item>Akira Toriyama</item>
+        <item>Matt Groening</item>
+        <item>Bruno Heller</item>
+        <item>-</item>
+        <item>-</item>
+
+    </string-array>
+
+    <string-array name="tv_genre">
+        <item>Drama, Mystery, Sci-Fi, Fantasy</item>
+        <item>Action, Adventure, Animation, Comedy</item>
+        <item>Drama, Sci-Fi, Fantasy</item>
+        <item>Crime, Drama, Mystery, Action, Adventure</item>
+        <item>Action, Adventure, Comedy, Animation</item>
+        <item>Sci-Fi, Fantasy, Drama, Action, Adventure</item>
+        <item>Drama, Sci-Fi, Fantasy, Action, Adventure</item>
+        <item>Comedy, Sci-Fi, Fantasy, Animation, Action, Adventure</item>
+        <item>Animation, Comedy</item>
+        <item>Drama, Fantasy, Crime</item>
+        <item>Animation, Comedy, Drama</item>
+        <item>Action, Adventure, Animation, Comedy, Sci-Fi, Fantasy</item>
+
+    </string-array>
+
+    <string-array name="tv_sinopsis">
+        <item>When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.</item>
+        <item>Saitama is a hero who only became a hero for fun. After three years of “special” training, though, hes become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only meta-human who was created in the wake of the accelerator explosion and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it wont be long before the world learns what Barry Allen has become,The Flash.</item>
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>Years ago, the fearsome pirate king Gol D. Roger was executed, leaving a huge pile of treasure and the famous One Piece behind. Whoever claims the "One Piece" will be named the new pirate king. Monkey D. Luffy, a boy who consumed one of the "Devils Fruits", has it in his head that hell follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and hes surrounded by a bevy of skilled fighters and thieves to help him along the way. Monkey D. Luffy brings a bunch of his crew followed by, Roronoa Zoro, Nami, Usopp, Sanji, Tony-Tony Chopper, Nico Robin, Franky, and Brook. They will do anything to get the One Piece and become King of the Pirates!</item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Nights Watch, is all that stands between the realms of men and icy horrors beyond.</item>
+        <item>Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the dragon balls brought her to Gokus home. Together, they set off to find all seven dragon balls in an adventure that would change Gokus life forever. See how Goku met his life long friends Bulma, Yamcha, Krillin, Master Roshi and more.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>Before there was Batman, there was GOTHAM. Everyone knows the name Commissioner Gordon. He is one of the crime worlds greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordons story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the worlds most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</item>
+        <item>Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.</item>
+        <item>For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.</item>
+    </string-array>
+
+    <string-array name="tv_rating">
+        <item>83</item>
+        <item>80</item>
+        <item>67</item>
+        <item>58</item>
+        <item>77</item>
+        <item>81</item>
+        <item>68</item>
+        <item>71</item>
+        <item>71</item>
+        <item>69</item>
+        <item>75</item>
+        <item>78</item>
+    </string-array>
+
+    <string-array name="tv_poster">
+        <item>@drawable/tv_stranger</item>
+        <item>@drawable/tv_opm</item>
+        <item>@drawable/tv_flash</item>
+        <item>@drawable/tv_arrow</item>
+        <item>@drawable/tv_op</item>
+        <item>@drawable/tv_got</item>
+        <item>@drawable/tv_shield</item>
+        <item>@drawable/tv_dragon</item>
+        <item>@drawable/tv_simpsons</item>
+        <item>@drawable/tv_gotham</item>
+        <item>@drawable/tv_naruto</item>
+        <item>@drawable/tv_bleach</item>
+    </string-array>
+
+
+</resources>

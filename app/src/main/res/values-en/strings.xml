@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="runtime">Runtime</string>
+    <string name="director">Director</string>
+    <string name="title_home">Home</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="change_language_settings">Change Language Setting</string>
+</resources>
